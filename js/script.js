@@ -17,6 +17,8 @@
  * Input.
  */
 
+/**JSDoc File
+*/
 function buttonClicked() {
 
   var number1 = parseInt(document.getElementById('number1').value)
